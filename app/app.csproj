@@ -10,6 +10,7 @@
   
   <PropertyGroup>
     <CsWinRTWindowsMetadata>10.0.19041.0</CsWinRTWindowsMetadata>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
   </PropertyGroup>
 
   <ItemGroup>
